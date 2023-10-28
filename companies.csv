@@ -1,6 +1,15 @@
-name,photo,url,category,country,reason,reason_url
+name,photo,url,category,country,reason,source
 McDonald's,,https://www.mcdonalds.com,Restaurant,US,McDonald’s operator has been offering discounts to Israeli soldiers,https://edition.cnn.com/2023/10/23/business/mcdonalds-israel-middle-east/index.html
-Puma,,https://puma.com,Sport,DE,Puma sponsors the Israel Football Association,https://bdsmovement.net/boycott-puma
+Puma,,https://puma.com,Sport,DE,Puma sponsors the Israel Football Association,https://www.aljazeera.com/opinions/2019/10/27/puma-keeps-helping-israel-sports-wash-its-human-rights-abuses/
 Carrefour,,https://www.carrefour.com,Retail,FR,Carrefour is entering a partnership with the Israeli company Electra Consumer Products and the supermarket chain it owns (Yenot Bitan),https://www.carrefour.com/en/news/carrefourpartenariatisrael
 Starbucks,,https://starbucks.com,Retail,US,,https://edition.cnn.com/2023/10/13/business/starbucks-israel-palestine-workers/index.html
 Disney,,https://disney.com,Entertainment,US,$2 million donation to israel,https://www.creativecommunityforpeace.com/blog/2023/10/12/israel-under-attack-open-letter
+HP,,https://hp.com,Technology,US,HP provides technology to the Israeli military,https://investigate.afsc.org/company/hp
+Coca-Cola,,https://coca-cola.com,Food,US,Coca-Cola has donated millions of dollars to Israeli universities,https://www.foa.org.uk/campaign/boycottcocacola
+Nestle,,https://nestle.com,Food,CH,Nestle has donated millions of dollars to Israeli universities,https://bdsmovement.net/boycott-nestle
+Intel,,https://intel.com,Technology,US,Intel provides technology to the Israeli military,https://investigate.afsc.org/company/intel
+Nokia,,https://nokia.com,Technology,FI,Nokia provides technology to the Israeli military,https://investigate.afsc.org/company/nokia
+Motorola,,https://motorola.com,Technology,US,Motorola provides technology to the Israeli military,https://investigate.afsc.org/company/motorola
+Caterpillar,,https://caterpillar.com,Technology,US,Caterpillar provides technology to the Israeli military,https://investigate.afsc.org/company/caterpillar
+General Electric,,https://ge.com,Technology,US,General Electric provides technology to the Israeli military,https://investigate.afsc.org/company/general-electric
+Pret-A-Manger,,https://pret.com,Restaurant,UK,London-based Pret A Manger announced plans to launch 40 stores in apartheid Israel over the next 10 years,https://www.foa.org.uk/campaign/pretapartheid
